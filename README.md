@@ -23,3 +23,7 @@ You can click the Preview link to take a look at your changes.
 <div id="header" align="start">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+### My github stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=StevenMODIMO)](https://git.io/streak-stats)
