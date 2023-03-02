@@ -10,11 +10,7 @@
 | React | Python | Postgres|
 | Tailwind CSS | Django | MySQL|
 ---
-## Operating Systems
-<div align="between">
-<img src="https://www.markdownguide.org/assets/images/tux.png" alt="biko" />
-<img src="https://i.postimg.cc/76QfBNG9/win.jpg" alt="biko" />
-</div>
+
 ---
 <!---
 StevenMODIMO/StevenMODIMO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,4 +22,9 @@ You can click the Preview link to take a look at your changes.
 
 ### My github stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=StevenMODIMO)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StevenMODIMO&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=StevenMODIMO&theme=transparent)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenMODIMO&hide=html,css&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
