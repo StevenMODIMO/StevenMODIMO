@@ -1,6 +1,6 @@
 - 👋 Hi, I’m StevenMODIMO
-- 👀 I’m interested Mobile and Web Devlopment
-- 🌱 I’m currently learning Mobile App Design
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Open Source Projects
 ---
 ## My Tech Stacks
