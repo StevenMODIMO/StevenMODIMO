@@ -1,13 +1,15 @@
 - 👋 Hi, I’m StevenMODIMO
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently freelancing
 - 💞️ I’m looking to collaborate on Open Source Projects
+- ✨Love problems and fixing them
 ---
 ## My Tech Stacks
 |Frontend| Backend| Databases|
 |------- | ------ | -------- |
 | Html\Css | Node.js | MongoDB|
 | React | Python | Postgres|
+|EJS|Firebase|Firestore
 | Tailwind CSS | Django | MySQL|
 ---
 
