@@ -12,7 +12,7 @@
 |EJS|Firebase|Firestore
 | Tailwind CSS | Django | MySQL|
 ---
-<a href="https://app.daily.dev/stevenmodimo"><img src="https://api.daily.dev/devcards/v2/yu1xSvwWSCAQacv7AAEXb.png?r=quq&type=wide" width="652" alt="StevenMODIMO's Dev Card"/></a>
+
 ---
 <!---
 StevenMODIMO/StevenMODIMO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
