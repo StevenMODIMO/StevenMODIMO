@@ -20,6 +20,8 @@ You can click the Preview link to take a look at your changes.
 --->
 ![StevenMODIMO's Stats](https://github-readme-stats.vercel.app/api?username=StevenMODIMO&theme=dark&show_icons=true&hide_border=true&count_private=false)
 
+![StevenMODIMO's Streak](https://github-readme-streak-stats.herokuapp.com/?user=StevenMODIMO&theme=dark&hide_border=true)
+
 ![StevenMODIMO's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenMODIMO&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 <div id="header" align="start">
