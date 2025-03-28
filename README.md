@@ -9,7 +9,6 @@
 |------- | ------ | -------- |
 | Html\Css | Node.js | MongoDB|
 | React | Python | Postgres|
-|EJS|Firebase|Firestore
 | Tailwind CSS | Django | MySQL|
 
 ![StevenMODIMO's Stats](https://github-readme-stats.vercel.app/api?username=StevenMODIMO&theme=dark&show_icons=true&hide_border=true&count_private=false)
