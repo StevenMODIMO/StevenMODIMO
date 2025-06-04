@@ -1,6 +1,5 @@
-
-- 👋 Hi, I’m StevenMODIMO
 <!--
+- 👋 Hi, I’m StevenMODIMO
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently freelancing
 - 💞️ I’m looking to collaborate on Open Source Projects
