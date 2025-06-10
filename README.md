@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Open Source Projects
 - ✨Love problems and fixing them
 -->
-# Full stack web developer
+# Fullstack Web Developer.
 
 ![StevenMODIMO's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenMODIMO&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
