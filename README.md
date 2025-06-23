@@ -8,7 +8,7 @@
 
 # Fullstack Web Developer.
 
-Currently learning mobile development
+**Currently learning mobile development  (ReactNATIVE)**
 
 ![StevenMODIMO's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenMODIMO&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
