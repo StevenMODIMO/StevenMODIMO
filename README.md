@@ -6,7 +6,7 @@
 - ✨Love problems and fixing them
 -->
 
-# Fullstack Web Developer.
+# Web Developer.
 
 Currently learning mobile development (React Native and Flutter)
 
