@@ -6,7 +6,7 @@
 - ✨Love problems and fixing them
 -->
 
-# Web Developer.
+# Full Stack Developer.
 
 Currently learning mobile development (React Native and Flutter)
 
