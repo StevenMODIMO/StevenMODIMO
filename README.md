@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on Open Source Projects
 - ✨Love problems and fixing them
 -->
-
 # Full Stack Developer.
 
 Currently learning mobile development (React Native and Flutter)
